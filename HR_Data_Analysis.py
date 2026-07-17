@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib .pyplot as plt
 
 
-df = pd.read_excel("C:\\Users\\rj973\\Downloads\\HR Data.xlsx")
+df = pd.read_excel("HR Data.xlsx")
 #first 5 rows
 print(df.head())
 #last 5 rows
